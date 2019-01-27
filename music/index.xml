@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music on Fran Copelli</title>
+    <link>https://francopelli.github.io/music/</link>
+    <description>Recent content in Music on Fran Copelli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 22 Aug 2015 06:42:21 -0700</lastBuildDate>
+    
+	<atom:link href="https://francopelli.github.io/music/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>1withinwaters</title>
+      <link>https://francopelli.github.io/music/withinwaters/</link>
+      <pubDate>Sat, 22 Aug 2015 06:28:26 -0700</pubDate>
+      
+      <guid>https://francopelli.github.io/music/withinwaters/</guid>
+      <description>2018 - Present
+Genre: Experimental pop Members: Zack Lauzon, Fran Copelli (vocals and lyrics)
+ withinwaters (EP, 2018)</description>
+    </item>
+    
+    <item>
+      <title>2Jeepay Lovecraft</title>
+      <link>https://francopelli.github.io/music/jeepay-lovecraft/</link>
+      <pubDate>Sat, 22 Aug 2015 06:28:26 -0700</pubDate>
+      
+      <guid>https://francopelli.github.io/music/jeepay-lovecraft/</guid>
+      <description>2018 - Present
+Genre: Slacker Rock Members: Chris Shackleton, Vinnie Copelli, Fran Copelli (organ), Noah Ozark, Justin Bain
+ Anklebiter (EP, 2018)</description>
+    </item>
+    
+    <item>
+      <title>3Akage No Anne</title>
+      <link>https://francopelli.github.io/music/akage-no-anne/</link>
+      <pubDate>Sat, 22 Aug 2015 06:28:26 -0700</pubDate>
+      
+      <guid>https://francopelli.github.io/music/akage-no-anne/</guid>
+      <description>2017 - 2018
+Genre: Experimental Poprock Members: Yoshihide Nakajima, Tom Dunbar, Fran Copelli (synthesizers and vocals)
+ Good Cake (EP, 2018)
+ Cornelia (Single, 2017)
+ Noise (Single, 2017)</description>
+    </item>
+    
+    <item>
+      <title>4ATTALOOM</title>
+      <link>https://francopelli.github.io/music/attaloom/</link>
+      <pubDate>Sat, 22 Aug 2015 06:28:26 -0700</pubDate>
+      
+      <guid>https://francopelli.github.io/music/attaloom/</guid>
+      <description>2011 - 2014
+Genre: Witch house Members: Fran Copelli
+ Bring Me, Too (LP, 2013)
+ Anonymity (Single, 2014)
+ Memory Garden (Single, 2013)
+ Lady of My Dreams (Soundtrack, 2012)
+ Dream World (LP, 2012)
+ WYAMWIA, TIWISY (EP, 2011)</description>
+    </item>
+    
+    <item>
+      <title>5Tokko Bandito</title>
+      <link>https://francopelli.github.io/music/tokko-bandito/</link>
+      <pubDate>Sat, 22 Aug 2015 06:28:26 -0700</pubDate>
+      
+      <guid>https://francopelli.github.io/music/tokko-bandito/</guid>
+      <description>2009 - 2011
+Genre: Instrumental Members: Patrick Conry, Zack Lauzon, Fran Copelli (keyboard)
+ AIN (LP, 2010)
+ AINSOPH (LP, 2010)</description>
+    </item>
+    
+    <item>
+      <title>6Francie Copelli</title>
+      <link>https://francopelli.github.io/music/francie-copelli/</link>
+      <pubDate>Sat, 22 Aug 2015 06:28:26 -0700</pubDate>
+      
+      <guid>https://francopelli.github.io/music/francie-copelli/</guid>
+      <description>2009 - 2011
+Genre: minimalist Members: Fran Copelli
+ The Grotto Chamber (LP, 2011)
+ Nostalgia (LP, 2010)
+ Fragments (LP, 2009)</description>
+    </item>
+    
+  </channel>
+</rss>
