@@ -195,6 +195,7 @@ section.header h3.self-intro {
   font-weight: 400;
   color: #555;
   margin-bottom: 1rem;
+  text-align: center;
 }
 section.header nav {
   font-size: 14px;
@@ -524,7 +525,7 @@ section.main {
     padding-bottom: 0px;
   }
   section.icons {
-    padding-top: 5px;
+    padding-top: 30px;
     padding-bottom: 60px;
   }
   section.main {

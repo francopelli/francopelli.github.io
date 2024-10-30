@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>//francopelli.github.io/</loc>
+    <lastmod>2015-08-22T06:42:21-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>//francopelli.github.io/music/</loc>
     <lastmod>2015-08-22T06:42:21-07:00</lastmod>
   </url>
   
   <url>
     <loc>//francopelli.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//francopelli.github.io/</loc>
     <priority>0</priority>
   </url>
   
