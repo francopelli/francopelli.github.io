@@ -175,10 +175,10 @@ section.header .content {
 section.header .avatar {
   border-radius: 50%;
   box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.2);
-  max-width: 50px;
+  max-width: 100px;
 }
 section.header .name {
-  font-size: 18px;
+  font-size: 24px;
   font-family: 'Raleway', 'Helvetica Neue', 'Arial', sans-serif;
   letter-spacing: -0.005rem;
   font-weight: 700;
@@ -302,8 +302,8 @@ section.icons .content a:hover {
   opacity: 0.8;
 }
 section.icons .content a .icon {
-  width: 16px;
-  height: 16px;
+  width: 20px;
+  height: 20px;
 }
 section.icons .content a .flag {
   border-radius: 50%;
