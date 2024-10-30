@@ -113,19 +113,21 @@ section.header {
   order: 0;
 }
 section.icons {
-  -webkit-order: 1;
-  -moz-order: 1;
-  -ms-order: 1;
-  order: 1;
-}
-section.main {
   -webkit-order: 2;
   -moz-order: 2;
   -ms-order: 2;
   order: 2;
 }
+section.main {
+  -webkit-order: 1;
+  -moz-order: 1;
+  -ms-order: 1;
+  order: 1;
+}
 @media (min-width: 600px) {
+  
   section.header {
+  
     -webkit-order: 0;
     -moz-order: 0;
     -ms-order: 0;
@@ -145,7 +147,7 @@ section.main {
   }
 }
 section.header {
-  background-color: #f7f7f7;
+  background-color: transparent;
 }
 section.header .container {
   -webkit-align-items: center;
@@ -281,7 +283,7 @@ section.icons .container {
   justify-content: center;
 }
 section.icons .content {
-  width: auto;
+ #width: auto;
 }
 section.icons .content a {
   margin-left: 6px;
@@ -505,16 +507,16 @@ section {
   padding: 0 16px;
 }
 section.header {
-  padding-top: 32px;
-  padding-bottom: 16px;
+  padding-top: 60px;
+  padding-bottom: 0px;
 }
 section.icons {
   padding-top: 0;
-  padding-bottom: 32px;
+  padding-bottom: 0px;
 }
 section.main {
-  padding-top: 32px;
-  padding-bottom: 32px;
+  padding-top: 0px;
+  padding-bottom: 30px;
 }
 @media (min-width: 600px) {
   .container {
@@ -607,7 +609,7 @@ section.main .content .markdown code,
 section.main .content .markdown pre {
   font-family: 'Ubuntu Mono', 'Menlo', monospace;
   font-size: 1rem;
-  background-color: #f7f7f7;
+  background-color: transparent;
 }
 section.main .content .markdown code {
   /* enclosed by single backtick (`) */
@@ -723,5 +725,5 @@ section.main .content .markdown th {
 }
 section.main .content .markdown tbody tr:nth-child(odd) td,
 section.main .content .markdown tbody tr:nth-child(odd) th {
-  background-color: #f7f7f7;
+  background-color: transparent;
 }
