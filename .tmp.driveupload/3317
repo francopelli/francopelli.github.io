@@ -11,19 +11,19 @@
 <meta name="author" content="Fran Copelli">
 <meta name="description" content="">
 
-<meta property="og:title" content="Categories" />
+<meta property="og:title" content="Tags" />
 <meta property="og:description" content="" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="//francopelli.github.io/categories/" />
+<meta property="og:url" content="//francopelli.github.io/tags/" />
 
 
 <title>
 
 
-     Categories 
+     Tags 
 
 </title>
-<link rel="canonical" href="//francopelli.github.io/categories/">
+<link rel="canonical" href="//francopelli.github.io/tags/">
 
 
 
@@ -39,9 +39,9 @@
 
 
     
-    <link rel="stylesheet" href="//francopelli.github.io/css/reset.css?t=2025-03-12%2011%3a28%3a46.39003%20%2b1100%20AEDT%20m%3d%2b0.050008247">
-    <link rel="stylesheet" href="//francopelli.github.io/css/pygments.css?t=2025-03-12%2011%3a28%3a46.39003%20%2b1100%20AEDT%20m%3d%2b0.050008247">
-    <link rel="stylesheet" href="//francopelli.github.io/css/main.css?t=2025-03-12%2011%3a28%3a46.39003%20%2b1100%20AEDT%20m%3d%2b0.050008247">
+    <link rel="stylesheet" href="//francopelli.github.io/css/reset.css?t=2025-04-01%2010%3a01%3a39.812342%20%2b1100%20AEDT%20m%3d%2b0.288967084">
+    <link rel="stylesheet" href="//francopelli.github.io/css/pygments.css?t=2025-04-01%2010%3a01%3a39.812342%20%2b1100%20AEDT%20m%3d%2b0.288967084">
+    <link rel="stylesheet" href="//francopelli.github.io/css/main.css?t=2025-04-01%2010%3a01%3a39.812342%20%2b1100%20AEDT%20m%3d%2b0.288967084">
     
 
 
@@ -155,7 +155,7 @@
         <div class="content">
             <div class="page-heading">
 
-    Categories
+    Tags
 
 </div>
 

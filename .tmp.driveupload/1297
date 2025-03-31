@@ -11,19 +11,19 @@
 <meta name="author" content="Fran Copelli">
 <meta name="description" content="">
 
-<meta property="og:title" content="Tags" />
+<meta property="og:title" content="404 Page not found" />
 <meta property="og:description" content="" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="//francopelli.github.io/tags/" />
+<meta property="og:url" content="" />
 
 
 <title>
 
 
-     Tags 
+     404 Page not found 
 
 </title>
-<link rel="canonical" href="//francopelli.github.io/tags/">
+<link rel="canonical" href="">
 
 
 
@@ -39,9 +39,9 @@
 
 
     
-    <link rel="stylesheet" href="//francopelli.github.io/css/reset.css?t=2025-03-12%2011%3a28%3a46.390107%20%2b1100%20AEDT%20m%3d%2b0.050085112">
-    <link rel="stylesheet" href="//francopelli.github.io/css/pygments.css?t=2025-03-12%2011%3a28%3a46.390107%20%2b1100%20AEDT%20m%3d%2b0.050085112">
-    <link rel="stylesheet" href="//francopelli.github.io/css/main.css?t=2025-03-12%2011%3a28%3a46.390107%20%2b1100%20AEDT%20m%3d%2b0.050085112">
+    <link rel="stylesheet" href="//francopelli.github.io/css/reset.css?t=2025-04-01%2010%3a01%3a39.823775%20%2b1100%20AEDT%20m%3d%2b0.300400501">
+    <link rel="stylesheet" href="//francopelli.github.io/css/pygments.css?t=2025-04-01%2010%3a01%3a39.823775%20%2b1100%20AEDT%20m%3d%2b0.300400501">
+    <link rel="stylesheet" href="//francopelli.github.io/css/main.css?t=2025-04-01%2010%3a01%3a39.823775%20%2b1100%20AEDT%20m%3d%2b0.300400501">
     
 
 
@@ -151,18 +151,11 @@
 
 
 <section class="main">
-    <div class="container">
+    <div class="container f04">
         <div class="content">
-            <div class="page-heading">
-
-    Tags
-
-</div>
-
-            <div class="markdown">
-                
-            </div>
-            
+            <div class="num">404</div>
+	    <div class="detail">Sorry, this page does not exist.</div>
+	    <div class="suggestion"><a href="//francopelli.github.io/">Visit home page</a></div>
         </div>
     </div>
 </section>
