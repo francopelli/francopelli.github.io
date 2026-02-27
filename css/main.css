@@ -34,6 +34,7 @@ html {
   height: 100%;
   font-size: 16px;
 }
+
 body {
   display: -webkit-flex;
   display: -moz-flex;
@@ -71,6 +72,7 @@ body {
     padding-top: 0 !important;
   }
 }
+
 section {
   display: -webkit-flex;
   display: -moz-flex;
@@ -340,6 +342,7 @@ section.main .content {
   color: #111;
   font-size: 14px;
 }
+
 section.main .content .title-container {
   display: -webkit-flex;
   display: -moz-flex;

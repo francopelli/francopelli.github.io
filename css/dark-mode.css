@@ -1,0 +1,5 @@
+body.dark-mode, 
+body.dark-mode main * {
+    background: rgb(45, 45, 45);
+    color: #fff;
+}
