@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fran Copelli</title>
-    <link>//francopelli.github.io/</link>
+    <link>//francopelli.github.io/about/</link>
     <description>Recent content on Fran Copelli</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="//francopelli.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//francopelli.github.io/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
