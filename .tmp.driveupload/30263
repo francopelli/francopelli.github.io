@@ -11,9 +11,10 @@
 <meta name="author" content="Fran Copelli">
 <meta name="description" content="">
 
-<meta property="og:url" content="//francopelli.github.io/categories/">
+<meta property="og:url" content="//francopelli.github.io/about/">
   <meta property="og:site_name" content="Fran Copelli">
-  <meta property="og:title" content="Categories">
+  <meta property="og:title" content="Fran Copelli">
+  <meta property="og:description" content="I’m an organized creative with a researcher’s brain. My work spans music, psychology, disability advocacy, and sustainability, grounded in a desire to understand how things work and how we experience being human. Check out the links below if you’d like to connect.">
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="website">
 
@@ -21,10 +22,10 @@
 <title>
 
 
-     Categories 
+      
 
 </title>
-<link rel="canonical" href="//francopelli.github.io/categories/">
+<link rel="canonical" href="//francopelli.github.io/about/">
 
 
 
@@ -40,9 +41,9 @@
 
 
     
-    <link rel="stylesheet" href="//francopelli.github.io/css/reset.css?t=2026-07-06%2013%3a07%3a34.125568%20%2b1000%20AEST%20m%3d%2b0.155474043">
-    <link rel="stylesheet" href="//francopelli.github.io/css/pygments.css?t=2026-07-06%2013%3a07%3a34.125568%20%2b1000%20AEST%20m%3d%2b0.155474043">
-    <link rel="stylesheet" href="//francopelli.github.io/css/main.css?t=2026-07-06%2013%3a07%3a34.125568%20%2b1000%20AEST%20m%3d%2b0.155474043">
+    <link rel="stylesheet" href="//francopelli.github.io/css/reset.css?t=2026-03-09%2008%3a35%3a26.794021%20%2b1100%20AEDT%20m%3d%2b0.170309376">
+    <link rel="stylesheet" href="//francopelli.github.io/css/pygments.css?t=2026-03-09%2008%3a35%3a26.794021%20%2b1100%20AEDT%20m%3d%2b0.170309376">
+    <link rel="stylesheet" href="//francopelli.github.io/css/main.css?t=2026-03-09%2008%3a35%3a26.794021%20%2b1100%20AEDT%20m%3d%2b0.170309376">
     
 
 
@@ -129,10 +130,6 @@
                     
                         <li class="nav-about"><a href="//francopelli.github.io/about/"><span>about</span></a></li>
                     
-                        <li class="nav-music"><a href="//francopelli.github.io/music/"><span>music</span></a></li>
-                    
-                        <li class="nav-research"><a href="//francopelli.github.io/research/"><span>research</span></a></li>
-                    
                 </ul>
             </nav>
         </div>
@@ -145,12 +142,13 @@
         <div class="content">
             <div class="page-heading">
 
-    Categories
+    
 
 </div>
 
             <div class="markdown">
-                
+                <p>I’m an organized creative with a researcher’s brain. My work spans music, psychology, disability advocacy, and sustainability, grounded in a desire to understand how things work and how we experience being human. Check out the links below if you’d like to connect.</p>
+
             </div>
             
         </div>
